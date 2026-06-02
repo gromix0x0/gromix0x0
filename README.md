@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://app.hackthebox.com/profile/019e82a7-60cb-716e-b996-be390cb130f4">
+  <a href="https://profile.hackthebox.com/profile/019e82a7-60cb-716e-b996-be390cb130f4">
     <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
   </a>
   <a href="https://tryhackme.com/p/Gromofon">
