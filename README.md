@@ -19,16 +19,39 @@ $ echo $GOAL
 > OSCP -> OSEP -> OSWE
 ```
 
-### `// current ops`
+### `// boot`
 
-- 🎯 Grinding **HTB** & **VulnHub** boxes
-- 🐍 Studying *Black Hat Python* + the AD attack chain
-- ⚡ Living in the terminal
+```
+                 ..,;:cccclll
+        ..;cclooooooooooooodxk0KX           __  __    _    _    ___
+   .:cooooooooooooooooooddxkO0KKXNW         |  \/  |  / \  | |  |_ _|
+ .loooooooooooooooooddxxkO0KXNNWWMMM        | |\/| | / _ \ | |   | |
+:oooooooooooooodddxkO0KXNWWMMMMMMMMM        | |  | |/ ___ \| |___| |
+ooooooooooddddxk0KXNWMMMMMMMMMMMMMMM        |_|  |_/_/   \_\_____|___|
+oooooddddxxkO0KXNWMMMMMMMMMMMMMMMMMM
+ddddxxkO0KXNWMMMMMMMMMMMMMMMMMMMMMMM        [*] kali linux  :: rolling
+xkO0KXNWMMMMMMMMMMMMMMMMMMMMMMMMMMMM        [*] shell       :: zsh
+KXNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM        [+] root@grom0x0 ready
+```
+
+### `// msfconsole`
+
+```console
+msf6 > use exploit/multi/handler
+msf6 > set PAYLOAD windows/x64/meterpreter/reverse_tcp
+msf6 > exploit -j
+[*] Started reverse TCP handler
+[*] Sending stage (201798 bytes)
+[+] Meterpreter session 1 opened
+meterpreter > getuid
+Server username: NT AUTHORITY\SYSTEM
+```
 
 ### `// arsenal`
 
 <p>
   <img src="https://img.shields.io/badge/nmap-269377?style=flat-square&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/BloodHound-1A1A1A?style=flat-square" />
   <img src="https://img.shields.io/badge/Impacket-2C2C2A?style=flat-square" />
@@ -47,15 +70,6 @@ $ echo $GOAL
 </p>
 
 ---
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gromix0x0&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-streak-stats.demolab.com?user=gromix0x0&hide_border=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gromix0x0&layout=compact&hide_border=true&theme=radical&langs_count=8" />
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
