@@ -1,33 +1,31 @@
-<h1 align="center">whoami</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=A32D2D&center=true&vCenter=true&width=480&lines=Grom0x0;beginner+red+teamer;offensive+security;OSCP+%E2%86%92+OSEP+%E2%86%92+OSWE" alt="typing" />
+</h1>
 
 <p align="center">
-  <code>Grom0x0</code> · beginner red teamer · offensive security
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/focus-red%20team-A32D2D?style=flat-square" />
-  <img src="https://img.shields.io/badge/learning-pentest-534AB7?style=flat-square" />
-  <img src="https://img.shields.io/badge/goal-OSCP%20%7C%20OSEP%20%7C%20OSWE-0F6E56?style=flat-square" />
+  <img src="https://img.shields.io/badge/focus-red%20team-A32D2D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/learning-pentest-534AB7?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=gromix0x0&style=for-the-badge&color=0F6E56&label=visitors" />
 </p>
 
 ---
 
 ```bash
-$ id
-uid=1000(grom0x0) groups=redteam,ctf,homelab
+$ whoami
+> red teamer in training
 $ cat ~/.focus
-> offensive security / penetration testing
 > active directory · web · recon · post-exploitation
+$ echo $GOAL
+> OSCP -> OSEP -> OSWE
 ```
 
-### // current ops
+### `// current ops`
 
-- Building a curated CTF practice environment on Debian
-- Grinding **HTB** & **VulnHub** boxes
-- Studying *Black Hat Python* and the AD attack chain
-- Heading toward **OSCP → OSEP → OSWE**
+- 🎯 Grinding **HTB** & **VulnHub** boxes
+- 🐍 Studying *Black Hat Python* + the AD attack chain
+- ⚡ Living in the terminal
 
-### // arsenal
+### `// arsenal`
 
 <p>
   <img src="https://img.shields.io/badge/nmap-269377?style=flat-square&logo=nmap&logoColor=white" />
@@ -37,33 +35,32 @@ $ cat ~/.focus
   <img src="https://img.shields.io/badge/netexec-444441?style=flat-square" />
   <img src="https://img.shields.io/badge/ffuf-5F5E5A?style=flat-square" />
   <img src="https://img.shields.io/badge/evil--winrm-085041?style=flat-square" />
-  <img src="https://img.shields.io/badge/chisel-0C447C?style=flat-square" />
 </p>
 
-### // stack
+### `// stack`
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
-
-### // lab
-
-```
-VirtualBox  →  Kali · Win Server 2022 (AD DC) · Win10 domain-joined · Metasploitable2 · DVWA
-Portable    →  VeraCrypt USB + YubiKey 5 NFC (HMAC-SHA1)
-Edge nodes  →  Raspberry Pi (DietPi) · Tailscale · self-hosted recon
-```
 
 ---
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=gromix0x0&show_icons=true&hide_border=true&theme=dark&icon_color=534AB7&title_color=A32D2D" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gromix0x0&layout=compact&hide_border=true&theme=dark&title_color=A32D2D" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gromix0x0&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-streak-stats.demolab.com?user=gromix0x0&hide_border=true&theme=radical" />
 </p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gromix0x0&layout=compact&hide_border=true&theme=radical&langs_count=8" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <p align="center">
   <i>Hack the box, not the badge.</i>
