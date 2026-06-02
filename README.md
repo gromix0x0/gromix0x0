@@ -8,6 +8,15 @@
   <img src="https://komarev.com/ghpvc/?username=gromix0x0&style=for-the-badge&color=0F6E56&label=visitors" />
 </p>
 
+<p align="center">
+  <a href="https://app.hackthebox.com/profile/019e82a7-60cb-716e-b996-be390cb130f4">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  </a>
+  <a href="https://tryhackme.com/p/Gromofon">
+    <img src="https://img.shields.io/badge/TryHackMe-Gromofon-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ```bash
@@ -33,6 +42,14 @@ ddddxxkO0KXNWMMMMMMMMMMMMMMMMMMMMMMM        [*] kali linux  :: rolling
 xkO0KXNWMMMMMMMMMMMMMMMMMMMMMMMMMMMM        [*] shell       :: zsh
 KXNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM        [+] root@grom0x0 ready
 ```
+
+### `// thm stats`
+
+<p align="center">
+  <a href="https://tryhackme.com/p/Gromofon">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Gromofon.png" alt="TryHackMe Gromofon" />
+  </a>
+</p>
 
 ### `// msfconsole`
 
